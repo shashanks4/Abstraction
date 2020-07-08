@@ -1,0 +1,4 @@
+E:\C#solutions\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+E:\C#solutions\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+E:\C#solutions\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+E:\C#solutions\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
