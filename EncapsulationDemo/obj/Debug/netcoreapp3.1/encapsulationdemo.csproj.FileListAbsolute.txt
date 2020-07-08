@@ -1,0 +1,13 @@
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.csprojAssemblyReference.cache
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.AssemblyInfoInputs.cache
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.AssemblyInfo.cs
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.csproj.CoreCompileInputs.cache
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.exe
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.deps.json
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.runtimeconfig.json
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.runtimeconfig.dev.json
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.dll
+E:\C#solutions\encapsulationdemo\bin\Debug\netcoreapp3.1\encapsulationdemo.pdb
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.dll
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.pdb
+E:\C#solutions\encapsulationdemo\obj\Debug\netcoreapp3.1\encapsulationdemo.genruntimeconfig.cache
