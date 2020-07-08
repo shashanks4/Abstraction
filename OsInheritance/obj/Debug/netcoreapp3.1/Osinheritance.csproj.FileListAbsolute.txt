@@ -1,0 +1,13 @@
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.csprojAssemblyReference.cache
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.AssemblyInfoInputs.cache
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.AssemblyInfo.cs
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.csproj.CoreCompileInputs.cache
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.exe
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.deps.json
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.runtimeconfig.json
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.runtimeconfig.dev.json
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.dll
+E:\C#solutions\Osinheritance\bin\Debug\netcoreapp3.1\Osinheritance.pdb
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.dll
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.pdb
+E:\C#solutions\Osinheritance\obj\Debug\netcoreapp3.1\Osinheritance.genruntimeconfig.cache
