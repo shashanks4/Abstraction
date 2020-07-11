@@ -1,0 +1,10 @@
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.Form2.resources
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\c#Sol\Hello\Hello\bin\Debug\Hello.exe.config
+D:\c#Sol\Hello\Hello\bin\Debug\Hello.exe
+D:\c#Sol\Hello\Hello\bin\Debug\Hello.pdb
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.exe
+D:\c#Sol\Hello\Hello\obj\Debug\Hello.pdb
