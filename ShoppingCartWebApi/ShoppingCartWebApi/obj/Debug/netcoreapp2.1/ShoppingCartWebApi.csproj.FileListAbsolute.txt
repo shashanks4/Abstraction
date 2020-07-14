@@ -1,0 +1,14 @@
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\bin\Debug\netcoreapp2.1\ShoppingCartWebApi.deps.json
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\bin\Debug\netcoreapp2.1\ShoppingCartWebApi.runtimeconfig.json
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\bin\Debug\netcoreapp2.1\ShoppingCartWebApi.runtimeconfig.dev.json
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\bin\Debug\netcoreapp2.1\ShoppingCartWebApi.dll
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.csprojAssemblyReference.cache
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.csproj.CoreCompileInputs.cache
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.RazorAssemblyInfo.cache
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.RazorAssemblyInfo.cs
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.AssemblyInfoInputs.cache
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.AssemblyInfo.cs
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.RazorTargetAssemblyInfo.cache
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\bin\Debug\netcoreapp2.1\ShoppingCartWebApi.pdb
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.dll
+D:\c#Sol\ShoppingCartWebApi\ShoppingCartWebApi\obj\Debug\netcoreapp2.1\ShoppingCartWebApi.pdb
